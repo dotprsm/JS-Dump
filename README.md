@@ -1,2 +1,2 @@
 # JS-Dump
-Currently Learning javascript! Making some cool simple projects and dropping em here
+Learning how javascript works, dumping some simple projects here
