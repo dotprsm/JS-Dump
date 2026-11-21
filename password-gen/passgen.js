@@ -1,4 +1,3 @@
-
 function generatePassword(length = 16) {
   const chars =
     "abcdefghijklmnopqrstuvwxyz" +
